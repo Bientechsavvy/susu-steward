@@ -1,0 +1,12 @@
+{
+  "name": "susu-steward",
+  "version": "1.0.0",
+  "description": "AI agent that runs rotating savings circles on PayPal (sandbox).",
+  "license": "MIT",
+  "private": true,
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
